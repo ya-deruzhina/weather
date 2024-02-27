@@ -1,0 +1,10 @@
+{% extends 'weathers/header.html' %}
+
+{% block content %}
+    {% for weather in many_weathers %}
+    <li> <a href="/weather/{{ weather.id }}/"> {{ weather.city }},
+        Date - {{ weather.date }}, 
+        Temperature - {{ weather.temperature }} C </a> </li>
+    {% endfor %} 
+    
+{% endblock %}

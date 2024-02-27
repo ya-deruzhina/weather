@@ -1,0 +1,8 @@
+{% extends 'weathers/header.html' %}
+
+{% block content %}
+    <form action="/weather/horoskop/user_update/{{ username }}/" method="put">
+        {{ form }}
+        <button type="submit">Update</button>
+    </form> 
+{% endblock %}

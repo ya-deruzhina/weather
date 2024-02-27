@@ -1,0 +1,8 @@
+{% extends 'horoskop/horoskop_header.html' %}
+
+{% block content %}
+    <form action="/weather/horoskop/create/" method="post">
+        {{ form }}
+        <button type="submit">Create</button>
+    </form> 
+{% endblock %}

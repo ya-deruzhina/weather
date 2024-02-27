@@ -1,0 +1,22 @@
+{% extends 'horoskop/horoskop_header.html' %}
+{% block content %}
+User Information
+
+<li> <p>
+    Username - {{ user.username }}
+</p>
+<p>    
+    zodiac - {{ user.user_zodiac }}    
+</p> 
+<p>
+    Date of creating - {{ user.date_joined}}
+</p>
+
+<form action="/weather/horoskop/user_update/tranzit/" method="get">
+    <button type="submit">Update User</button>
+</form> 
+<form action="/weather/horoskop/user_delete/{{ user.username}}/" method="delete">
+    <button type="submit">Delete User</button>
+</form> 
+
+{% endblock %}

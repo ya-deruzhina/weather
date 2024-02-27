@@ -1,0 +1,14 @@
+{% extends 'horoskop/horoskop_header.html' %}
+
+{% block content %}
+You need to autorizate or registrate
+
+<form action="/weather/horoskop/autorization/" method="get">
+    <button type="submit">Authorization</button>
+</form> 
+
+<form action="/weather/horoskop/registration/" method="get">
+    <button type="submit">Registration</button>
+</form> 
+
+{% endblock %}
