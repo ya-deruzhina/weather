@@ -1,0 +1,26 @@
+{% extends 'weathers/header.html' %}
+
+{% block content %}
+You can write "all" or one city
+<form action="/weather/base/" method="post">
+    {{ form }}
+    <button type="submit">Choise</button>
+</form> 
+
+<form action="/weather/horoskop/" method="get">
+    Посмотреть свой личный прогноз
+    <button type="submit">HOROSKOP</button>
+</form> 
+
+<form action="/weather/update/" method="post">
+    Обновить данные
+    <button type="submit">UPDATE</button>
+</form> 
+
+<p>
+    <a href="/weather/horoskop/message/tavr/">Chat For Test</a>
+</p>
+
+
+
+{% endblock %}

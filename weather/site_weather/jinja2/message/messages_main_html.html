@@ -1,0 +1,16 @@
+{% extends 'horoskop/horoskop_header.html' %}
+
+{% block content %}
+    {% for m in messages %}
+    <li> {{m.author_message}}
+        {{m.message}}
+        <a href="/weather/horoskop/message/delete/{{ m.id }}/"> Delete </a>   
+    </li>
+    {% endfor %} 
+    
+    <form action="/weather/horoskop/message/create/{{username}}/" method="post">
+        {{ form }}
+        <button type="submit">Create</button>
+    </form> 
+
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'horoskop/horoskop_header.html' %}
+
+{% block content %}
+    {% for h in horoskop %}
+    <li> <a href="/weather/horoskop/zodiac/{{ h.zodiac }}/"> {{ h.zodiac }} </a> 
+        <a href="/weather/horoskop/zodiac/up_date/{{ h.zodiac }}/"> Update </a>
+        <a href="/weather/horoskop/zodiac/delete/{{ h.zodiac }}/"> Delete </a>
+    
+    </li>
+
+    {% endfor %} 
+    
+    <p>
+        <a href="/weather/horoskop/create/">Create New Horoskop</a>
+    </p>
+    
+{% endblock %}

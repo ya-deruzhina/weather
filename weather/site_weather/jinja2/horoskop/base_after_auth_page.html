@@ -1,0 +1,26 @@
+{% extends 'horoskop/horoskop_header.html' %}
+{% block content %}
+Horoskop For You
+
+<li> <p>
+    Zodiac - {{ horoskop.zodiac }}
+</p>
+<p>    
+    Description - {{ horoskop.description }}    
+</p> 
+<p>
+    Date of creating - {{ horoskop.date_create_zodiac}}
+</p>
+<p>
+    <a href="/weather/horoskop/all/">View All Horoskops</a>
+</p>
+
+<p>
+    <a href="/weather/horoskop/user_view/">About User</a>
+</p>
+
+<p>
+    <a href="/weather/horoskop/message/{{username}}/">Page For Question</a>
+</p>
+
+{% endblock %}

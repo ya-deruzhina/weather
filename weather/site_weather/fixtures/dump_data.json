@@ -1,0 +1,481 @@
+[
+{
+    "model": "site_weather.weather",
+    "pk": 4,
+    "fields": {
+        "city": "Minsk",
+        "date": "2023-12-28",
+        "temperature": 15,
+        "pressure": 10,
+        "wind": 100.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 93,
+    "fields": {
+        "city": "Minsk",
+        "date": "2023-12-29",
+        "temperature": 10,
+        "pressure": 20,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 94,
+    "fields": {
+        "city": "Minsk",
+        "date": "2023-12-31",
+        "temperature": 5,
+        "pressure": 15,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 95,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-01",
+        "temperature": 0,
+        "pressure": 15,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 96,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-02",
+        "temperature": 2,
+        "pressure": 20,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 97,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-03",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "RAIN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 98,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-04",
+        "temperature": 0,
+        "pressure": 15,
+        "wind": 15.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 99,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-05",
+        "temperature": 3,
+        "pressure": 25,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 100,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-06",
+        "temperature": 4,
+        "pressure": 30,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 102,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-07",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "RAIN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 103,
+    "fields": {
+        "city": "Minsk",
+        "date": "2024-01-08",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 104,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-23",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 105,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-22",
+        "temperature": 10,
+        "pressure": 20,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 106,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-21",
+        "temperature": 5,
+        "pressure": 15,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 107,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-24",
+        "temperature": 0,
+        "pressure": 15,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 108,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-25",
+        "temperature": 2,
+        "pressure": 20,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 109,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-26",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "RAIN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 110,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-27",
+        "temperature": 0,
+        "pressure": 15,
+        "wind": 15.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 111,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-28",
+        "temperature": 3,
+        "pressure": 25,
+        "wind": 10.0,
+        "weather": "SUN"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 112,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-29",
+        "temperature": 4,
+        "pressure": 30,
+        "wind": 15.0,
+        "weather": "FOGGY"
+    }
+},
+{
+    "model": "site_weather.weather",
+    "pk": 114,
+    "fields": {
+        "city": "Moscow",
+        "date": "2023-12-30",
+        "temperature": 1,
+        "pressure": 10,
+        "wind": 10.0,
+        "weather": "RAIN"
+    }
+},
+{
+    "model": "site_weather.horoskopmodel",
+    "pk": "TAURUS",
+    "fields": {
+        "description": "new_test",
+        "date_create_zodiac": "2023-12-17T13:50:15.119Z"
+    }
+},
+{
+    "model": "site_weather.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$r53S8WJO8kEQG3uFIhAXYJ$TTd0X34uD/DEFEGuR/0O6hi4Rctc4LjEBA6S23gbmUA=",
+        "last_login": "2023-12-23T17:57:39.505Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@ad.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-12-13T18:57:36.559Z",
+        "user_zodiac": "ARIES",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "site_weather.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$r53S8WJO8kEQG3uFIhAXYJ$TTd0X34uD/DEFEGuR/0O6hi4Rctc4LjEBA6S23gbmUA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "user",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-13T19:22:20.915Z",
+        "user_zodiac": "ARIES",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "site_weather.user",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$c1FzeG95Qfb3MJ5rFaqUgT$9OmDgyTfTbfBeeoPRnUoM5QRC6hc67oM8wuJa1L/OHI=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "userka",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-13T20:53:06.220Z",
+        "user_zodiac": "ARIES",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "site_weather.user",
+    "pk": 13,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$dMII1V8DghF4uQBlnNOvq7$qnrbwOagjXC8Ny/hAry1XwiYZ6rho3zEXK90G/Xikzw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "tavr",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-17T11:39:12.317Z",
+        "user_zodiac": "TAURUS",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 1,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "New",
+        "date_create": "2023-12-17T19:02:54.803Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 2,
+    "fields": {
+        "user_page": 13,
+        "author_message": "admin",
+        "message": "Admin",
+        "date_create": "2023-12-17T19:07:43.086Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 4,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "First",
+        "date_create": "2023-12-17T19:12:45.857Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 5,
+    "fields": {
+        "user_page": 13,
+        "author_message": "admin",
+        "message": "Message Saved",
+        "date_create": "2023-12-17T19:15:17.066Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 6,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "Test Message",
+        "date_create": "2023-12-17T19:19:50.585Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 8,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "New New New",
+        "date_create": "2023-12-18T16:37:52.622Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 9,
+    "fields": {
+        "user_page": 13,
+        "author_message": "admin",
+        "message": "Message",
+        "date_create": "2023-12-18T16:38:50.236Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 10,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "user message",
+        "date_create": "2023-12-18T17:40:37.619Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 11,
+    "fields": {
+        "user_page": 13,
+        "author_message": "admin",
+        "message": "admin message",
+        "date_create": "2023-12-18T17:40:59.111Z",
+        "new": false
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 12,
+    "fields": {
+        "user_page": 2,
+        "author_message": "user",
+        "message": "First Message",
+        "date_create": "2023-12-18T18:18:41.800Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 14,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "Super New",
+        "date_create": "2023-12-23T11:52:53.010Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 15,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "For Test",
+        "date_create": "2023-12-23T13:51:19.423Z",
+        "new": true
+    }
+},
+{
+    "model": "site_weather.messagesusermodel",
+    "pk": 16,
+    "fields": {
+        "user_page": 13,
+        "author_message": "tavr",
+        "message": "Super New",
+        "date_create": "2023-12-23T13:54:53.204Z",
+        "new": true
+    }
+}
+]
